@@ -12,10 +12,10 @@
   <a href="https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FerdiPortable?color=0cf"></a>
 </p>
 
-qwerty
+TODO
 
 
-qwerrtyuiop
+TODO TODO
 
 My post on the [Portableapps.com forum](https://portableapps.com/node/xxxxxxx)
 
