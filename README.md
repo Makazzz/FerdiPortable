@@ -5,7 +5,7 @@
 # Ferdi Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-  <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FerdiPortable?color=0cf&logo=Visual%20Studio%20Code"></a>
+  <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FerdiPortable?color=0cf&logo=Electron"></a>
   <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FerdiPortable/latest/total?color=blue"></a>
   <a href="https://github.com/Makazzz/FerdiPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FerdiPortable/total?color=0cf"></a>
   <a href="https://github.com/Makazzz/FerdiPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FerdiPortable?color=blue"></a>
