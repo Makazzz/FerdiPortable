@@ -50,7 +50,7 @@ is packaged as an offline installer and complete self extractable .paf.exe file.
 
 ## License
 
-*   Ferdi Portable released with the [Apache 2.0 license](https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/LICENSE).
+*   Ferdi Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/LICENSE).
 *   PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/FerdiPortable/Other/Source/LauncherLicense.txt).
 *   Ferdi released with the [Apache 2.0 license](https://raw.githubusercontent.com/getferdi/ferdi/master/LICENSE).
 *   Franz released with the [Apache 2.0 license](https://raw.githubusercontent.com/meetfranz/franz/master/LICENSE).
