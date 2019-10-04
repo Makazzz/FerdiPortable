@@ -12,10 +12,9 @@
   <a href="https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FerdiPortable?color=0cf"></a>
 </p>
 
-TODO
+Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 
-
-TODO TODO
+Ferdi is a hard-fork of [Franz](https://github.com/meetfranz/franz), adding awesome features and removing unwanted ones and a messaging app that combines chat & messaging services into one application. Ferdi currently supports Slack, WhatsApp, WeChat, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more.
 
 My post on the [Portableapps.com forum](https://portableapps.com/node/xxxxxxx)
 
