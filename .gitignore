@@ -1,0 +1,11 @@
+# Ignore App folder
+FerdiPortable/App/Ferdi
+
+# Ignore Data folder
+FerdiPortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
