@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/FerdiPortable?color=0cf&logo=Electron"></a>
-  <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FerdiPortable/latest/total?color=blue"></a>
+  <a href="https://github.com/Makazzz/FerdiPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/FerdiPortable/latest/total?color=purple"></a>
   <a href="https://github.com/Makazzz/FerdiPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/FerdiPortable/total?color=0cf"></a>
-  <a href="https://github.com/Makazzz/FerdiPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FerdiPortable?color=blue"></a>
+  <a href="https://github.com/Makazzz/FerdiPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/FerdiPortable?color=purple"></a>
   <a href="https://raw.githubusercontent.com/Makazzz/FerdiPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/FerdiPortable?color=0cf"></a>
 </p>
 
