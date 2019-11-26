@@ -43,8 +43,8 @@ is packaged as an offline installer and complete self extractable .paf.exe file.
 
 ## Credits
 
-*   Ferdi Portable is a redistribution of [Franz](https://meetfranz.com), build by the [Ferdi team](https://getferdi.com/)
-*   [Franz](https://meetfranz.com), source of Ferdi, developed by [Stefan Malzner](https://adlk.blog/).
+*   Ferdi Portable is a redistribution of [Ferdi](https://getferdi.com), build by the [Ferdi team](https://github.com/getferdi)
+*   [Franz](https://meetfranz.com), source of Ferdi, developed by [Stefan Malzner](https://github.com/adlk).
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
 ## License
